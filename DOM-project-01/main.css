@@ -14,6 +14,7 @@ body {
 .tile {
   height: 100px;
   background: #111111;
-  border: 5px solid #444444;
+  border: 5px solid #4d4237;
+  border-radius: 10px;
   cursor: pointer;
 }
